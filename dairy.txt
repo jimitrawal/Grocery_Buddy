@@ -1,0 +1,4 @@
+Milk:    $6.00
+Cheese:  $5.50
+Yogurt:  $4.25
+Butter:  $4.25
