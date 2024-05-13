@@ -1,0 +1,7 @@
+Apple:  $2.00
+Banana:  $1.75
+Grapes:  $2.25
+Mango:  $4.00
+Spinach:  $3.00
+Tomato:  $1.75
+Potato:  $3.50
