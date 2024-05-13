@@ -21,4 +21,3 @@ This Python project simulates a grocery store where users can select items from 
 
    ```bash
    git clone <repository_url>
-Python backend system for Canadian Contractor Services.
