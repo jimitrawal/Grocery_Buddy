@@ -1,0 +1,5 @@
+Soup:     $3.25
+Noodles:  $4.00
+Beans:    $3.75
+Pasta:    $4.00
+Sauce:    $4.00
