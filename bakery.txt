@@ -1,0 +1,4 @@
+Cake:  $8.00
+Bread:  $2.50
+Tortilla:  $3.75
+Cupcake:  $4.00
